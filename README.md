@@ -2,6 +2,10 @@
 
 # MaiGPT
 
+<a src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" href="https://huggingface.co/spaces/microsoft/HuggingGPT">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-blue" alt="Open in Spaces">
+</a>
+
 ![image](https://user-images.githubusercontent.com/29084184/229440418-28a6dd9c-97a5-43f0-b595-b42f65b3e4c5.png)
 
 
